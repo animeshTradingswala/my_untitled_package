@@ -1,16 +1,3 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
-
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
@@ -34,6 +21,17 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+TODO: Package uses here:
+```
+    flutter_neumorphic: ^3.2.0
+    fluttertoast: ^8.0.8
+    get: ^4.6.1
+    flutter_svg: ^1.0.1
+    flutter_screenutil: ^5.0.0+2
+    cached_network_image: ^3.1.0
+    share_plus: ^3.0.4
+    url_launcher: ^6.0.12
+    http: ^0.13.4
+    camera_snap: ^0.0.4
+    image_picker: ^0.8.0+1
+```
