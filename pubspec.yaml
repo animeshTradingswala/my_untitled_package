@@ -28,6 +28,9 @@ dev_dependencies:
   http: ^0.13.4
   camera_snap: ^0.0.4
   image_picker: ^0.8.0+1
+  particles_flutter: ^0.1.4
+  animator: ^3.1.0
+  flutter_staggered_animations: ^1.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
