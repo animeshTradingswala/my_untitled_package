@@ -23,15 +23,19 @@ const like = 'sample';
 
 TODO: Package uses here:
 ```
-    flutter_neumorphic: ^3.2.0
-    fluttertoast: ^8.0.8
-    get: ^4.6.1
-    flutter_svg: ^1.0.1
-    flutter_screenutil: ^5.0.0+2
-    cached_network_image: ^3.1.0
-    share_plus: ^3.0.4
-    url_launcher: ^6.0.12
-    http: ^0.13.4
-    camera_snap: ^0.0.4
-    image_picker: ^0.8.0+1
+  flutter_neumorphic: ^3.2.0
+  fluttertoast: ^8.0.8
+  get: ^4.6.1
+  flutter_svg: ^1.0.1
+  flutter_screenutil: ^5.0.0+2
+  cached_network_image: ^3.1.0
+  share_plus: ^3.0.4
+  url_launcher: ^6.0.12
+  http: ^0.13.4
+  camera_snap: ^0.0.4
+  image_picker: ^0.8.0+1
+  particles_flutter: ^0.1.4
+  animator: ^3.1.0
+  flutter_staggered_animations: ^1.0.0
+
 ```
